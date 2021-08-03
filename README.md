@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VarduhiSahakyan
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on It
+- 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me sahakyanvarduhi@gmail.com
 
 <!---
